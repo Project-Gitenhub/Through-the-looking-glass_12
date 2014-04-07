@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Through the Looking-Glass, and What Alice Found There</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Carroll, Lewis">Lewis Carroll</dc:creator>
+    <dc:creator opf:role="ill" opf:file-as="Tenniel, John">John Tenniel</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="publication">1871</dc:date>
+    <dc:date opf:event="creation">2010-01-12</dc:date>
+    <dc:date opf:event="modification">2012-12-11</dc:date>
+    <dc:source>Project Gutenberg, EText-No. 12</dc:source>
+    <dc:source>The Complete Illustrated Works of Lewis Carroll</dc:source>
+    <dc:identifier id="BookId">Jellby:20100112</dc:identifier>
+    <dc:contributor opf:role="bkp">Jellby</dc:contributor>
+    <dc:publisher>MobileRead</dc:publisher>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>Text</dc:type>
+    <dc:type>Image</dc:type>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:description>When Alice steps through the looking-glass, she enters a world of chess pieces and nursery rhyme characters who behave very strangely. Humpty Dumpty, Tweedledee and Tweedledum, the dotty White Knight and the sharp-tempered Red Queen—none of them are what they seem. In fact, through the looking-glass, everything is distorted.</dc:description>
+    <meta name="cover" content="cover_pic" />
+    <meta name="prince-style" content="pdfoutput_css" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="Cover" href="Cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="Title" href="Title.xhtml" media-type="application/xhtml+xml" />
+    <item id="Contents" href="Contents.xhtml" media-type="application/xhtml+xml" />
+    <item id="Illustrations" href="Illustrations.xhtml" media-type="application/xhtml+xml" />
+    <item id="Prelude" href="Prelude.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chess" href="Chess.xhtml" media-type="application/xhtml+xml" />
+    <item id="Preface" href="Preface.xhtml" media-type="application/xhtml+xml" />
+    <item id="Epilogue" href="Epilogue.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-01" href="Chapter-01.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-02" href="Chapter-02.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-03" href="Chapter-03.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-04" href="Chapter-04.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-05" href="Chapter-05.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-06" href="Chapter-06.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-07" href="Chapter-07.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-08" href="Chapter-08.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-09" href="Chapter-09.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-10" href="Chapter-10.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-11" href="Chapter-11.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-12" href="Chapter-12.xhtml" media-type="application/xhtml+xml" />
+    <item id="ChessBoard" href="images/Chess.jpg" media-type="image/jpeg" />
+    <item id="YKCOWREBBAJ" href="images/YKCOWREBBAJ.png" media-type="image/png" />
+    <item id="Illustration-01" href="images/Illustration-01.jpg" media-type="image/jpeg" />
+    <item id="Illustration-02" href="images/Illustration-02.jpg" media-type="image/jpeg" />
+    <item id="Illustration-03" href="images/Illustration-03.jpg" media-type="image/jpeg" />
+    <item id="Illustration-04" href="images/Illustration-04.jpg" media-type="image/jpeg" />
+    <item id="Illustration-05" href="images/Illustration-05.jpg" media-type="image/jpeg" />
+    <item id="Illustration-06" href="images/Illustration-06.jpg" media-type="image/jpeg" />
+    <item id="Illustration-07" href="images/Illustration-07.jpg" media-type="image/jpeg" />
+    <item id="Illustration-08" href="images/Illustration-08.jpg" media-type="image/jpeg" />
+    <item id="Illustration-09" href="images/Illustration-09.jpg" media-type="image/jpeg" />
+    <item id="Illustration-10" href="images/Illustration-10.jpg" media-type="image/jpeg" />
+    <item id="Illustration-11" href="images/Illustration-11.jpg" media-type="image/jpeg" />
+    <item id="Illustration-12" href="images/Illustration-12.jpg" media-type="image/jpeg" />
+    <item id="Illustration-13" href="images/Illustration-13.jpg" media-type="image/jpeg" />
+    <item id="Illustration-14" href="images/Illustration-14.jpg" media-type="image/jpeg" />
+    <item id="Illustration-15" href="images/Illustration-15.jpg" media-type="image/jpeg" />
+    <item id="Illustration-16" href="images/Illustration-16.jpg" media-type="image/jpeg" />
+    <item id="Illustration-17" href="images/Illustration-17.jpg" media-type="image/jpeg" />
+    <item id="Illustration-18" href="images/Illustration-18.jpg" media-type="image/jpeg" />
+    <item id="Illustration-19" href="images/Illustration-19.jpg" media-type="image/jpeg" />
+    <item id="Illustration-20" href="images/Illustration-20.jpg" media-type="image/jpeg" />
+    <item id="Illustration-21" href="images/Illustration-21.jpg" media-type="image/jpeg" />
+    <item id="Illustration-22" href="images/Illustration-22.jpg" media-type="image/jpeg" />
+    <item id="Illustration-23" href="images/Illustration-23.jpg" media-type="image/jpeg" />
+    <item id="Illustration-24" href="images/Illustration-24.jpg" media-type="image/jpeg" />
+    <item id="Illustration-25" href="images/Illustration-25.jpg" media-type="image/jpeg" />
+    <item id="Illustration-26" href="images/Illustration-26.jpg" media-type="image/jpeg" />
+    <item id="Illustration-27" href="images/Illustration-27.jpg" media-type="image/jpeg" />
+    <item id="Illustration-28" href="images/Illustration-28.jpg" media-type="image/jpeg" />
+    <item id="Illustration-29" href="images/Illustration-29.jpg" media-type="image/jpeg" />
+    <item id="Illustration-30" href="images/Illustration-30.jpg" media-type="image/jpeg" />
+    <item id="Illustration-31" href="images/Illustration-31.jpg" media-type="image/jpeg" />
+    <item id="Illustration-32" href="images/Illustration-32.jpg" media-type="image/jpeg" />
+    <item id="Illustration-33" href="images/Illustration-33.jpg" media-type="image/jpeg" />
+    <item id="Illustration-34" href="images/Illustration-34.jpg" media-type="image/jpeg" />
+    <item id="Illustration-35" href="images/Illustration-35.jpg" media-type="image/jpeg" />
+    <item id="Illustration-36" href="images/Illustration-36.jpg" media-type="image/jpeg" />
+    <item id="Illustration-37" href="images/Illustration-37.jpg" media-type="image/jpeg" />
+    <item id="Illustration-38" href="images/Illustration-38.jpg" media-type="image/jpeg" />
+    <item id="Illustration-39" href="images/Illustration-39.jpg" media-type="image/jpeg" />
+    <item id="Illustration-40" href="images/Illustration-40.jpg" media-type="image/jpeg" />
+    <item id="Illustration-41" href="images/Illustration-41.jpg" media-type="image/jpeg" />
+    <item id="Illustration-42" href="images/Illustration-42.jpg" media-type="image/jpeg" />
+    <item id="Illustration-43" href="images/Illustration-43.jpg" media-type="image/jpeg" />
+    <item id="Illustration-44" href="images/Illustration-44.jpg" media-type="image/jpeg" />
+    <item id="Illustration-45" href="images/Illustration-45.jpg" media-type="image/jpeg" />
+    <item id="Illustration-46" href="images/Illustration-46.jpg" media-type="image/jpeg" />
+    <item id="Illustration-47" href="images/Illustration-47.jpg" media-type="image/jpeg" />
+    <item id="Illustration-48" href="images/Illustration-48.jpg" media-type="image/jpeg" />
+    <item id="Illustration-49" href="images/Illustration-49.jpg" media-type="image/jpeg" />
+    <item id="Illustration-50" href="images/Illustration-50.jpg" media-type="image/jpeg" />
+    <item id="ill30_a" href="images/auximg/ill30_a.png" media-type="image/png" />
+    <item id="ill30_b" href="images/auximg/ill30_b.png" media-type="image/png" />
+    <item id="ill47_a" href="images/auximg/ill47_a.png" media-type="image/png" />
+    <item id="ill47_b" href="images/auximg/ill47_b.png" media-type="image/png" />
+    <item id="chess_font" href="fonts/chess_merida_unicode.ttf" media-type="application/x-font-ttf" />
+    <item id="title_css" href="css/title.css" media-type="text/css" />
+    <item id="style_css" href="css/style.css" media-type="text/css" />
+    <item id="alt_css" href="css/alt.css" media-type="text/css" />
+    <item id="epub_pic" href="images/epub.png" media-type="image/png" />
+    <item id="cover_pic" href="images/Cover.jpg" media-type="image/jpeg" />
+    <item id="photo_pic" href="images/LewisCarroll.jpg" media-type="image/jpeg" />
+    <item id="pdfoutput_css" href="css/pdf_output.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover" />
+    <itemref idref="Title" />
+    <itemref idref="Contents" linear="no" />
+    <itemref idref="Illustrations" linear="no" />
+    <itemref idref="Prelude" />
+    <itemref idref="Chess" />
+    <itemref idref="Preface" />
+    <itemref idref="Chapter-01" />
+    <itemref idref="Chapter-02" />
+    <itemref idref="Chapter-03" />
+    <itemref idref="Chapter-04" />
+    <itemref idref="Chapter-05" />
+    <itemref idref="Chapter-06" />
+    <itemref idref="Chapter-07" />
+    <itemref idref="Chapter-08" />
+    <itemref idref="Chapter-09" />
+    <itemref idref="Chapter-10" />
+    <itemref idref="Chapter-11" />
+    <itemref idref="Chapter-12" />
+    <itemref idref="Epilogue" />
+  </spine>
+  <guide>
+    <reference type="cover" href="Cover.xhtml"></reference>
+    <reference type="title-page" href="Title.xhtml"></reference>
+    <reference type="toc" title="Contents" href="Contents.xhtml"></reference>
+    <reference type="text" href="Chapter-01.xhtml"></reference>
+  </guide>
+</package>

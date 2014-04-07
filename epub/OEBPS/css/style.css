@@ -1,0 +1,316 @@
+@import url("alt.css"); /*Embedded fonts*/
+
+div.header {
+  display: none;
+  display: oeb-page-head;
+}
+
+div.name {
+  font-size: 150%;
+  font-variant: small-caps;
+  text-align: center;
+  margin: 3em 0 1em 0;
+}
+div.name span {
+  padding: 0 2em 0.5em 2em;
+  border-bottom: 2px solid #000000;
+}
+
+h1 {
+  font-size: 200%;
+  font-weight: bold;
+  text-align: center;
+  margin: 1em 0 1em 0;
+}
+h2 {
+  font-size: 150%;
+  font-weight: normal;
+  text-align: center;
+  margin: 1em 0 1em 0;
+}
+
+div.pagebreak {
+  page-break-before: always;
+  height: 0;
+  padding: 0
+}
+
+p {
+  text-indent: 1em;
+  margin: 0;
+}
+p.initial {
+  text-indent: 0;
+}
+p.noindent {
+  text-indent: 0;
+}
+
+em {
+  font-style: italic;
+}
+em em {
+  font-style: normal;
+}
+
+span.caps {
+  font-variant: small-caps;
+}
+
+span.small {
+  font-size: 70%;
+}
+span.big {
+  font-size: 120%;
+}
+
+span.first {
+  font-variant: small-caps;
+}
+span.drop {
+  font-size: 150%;
+  font-weight: bold;
+}
+span.predrop {
+  font-weight: normal;
+}
+
+div.center {
+  text-align: center;
+  margin: 1em;
+}
+
+div.signature {
+  text-align: right;
+  margin-top: 2em;
+}
+
+blockquote {
+  margin: 1em 2em 1em 2em;
+}
+blockquote p {
+}
+blockquote div {
+  margin-left: 2em;
+}
+
+div.separator {
+  text-align: center;
+  margin: 1em 0;
+}
+
+div.poetry {
+  margin: 1em 0 1em 2em;
+  font-style: italic;
+}
+div.stanza {
+  margin: 0.5em 0;
+  page-break-inside: avoid;
+}
+div.poetry p {
+  margin: 0;
+  padding-left: 5em;
+  text-indent: -5em;
+  text-align: left;
+}
+div.poetry p.indented {
+  margin-left: 1.5em;
+}
+div.poetry p.indented2 {
+  margin-left: 3em;
+}
+div.poetry p.indented3 {
+  margin-left: 4.5em;
+}
+div.poetry em, div.poetry span.caps {
+  font-style: normal;
+}
+
+table {
+  margin: 1em auto;
+}
+th {
+  font-weight: normal;
+  font-variant: small-caps;
+  text-align: center;
+}
+th.top {
+  padding-top: 1em;
+}
+
+table.characters {
+  display: inline;
+  display: inline-block;
+  margin: 1em;
+  page-break-inside: avoid;
+}
+table.characters td {
+  text-align: left;
+  padding: 0 0.5em 0 0;
+}
+table.characters td+td {
+  text-align: right;
+  padding: 0 0 0 0.5em;
+}
+
+span.white {
+  font-family: "Chess Merida Unicode";
+}
+span.red {
+  font-family: "Chess Merida Unicode";
+  color: #800;
+}
+
+div#chessboard img {
+  max-width: 40%;
+}
+
+td {
+  text-align: left;
+  vertical-align: text-top;
+}
+td.move {
+  text-align: right;
+}
+td + td.num {
+  padding-left: 1em;
+}
+
+/* For use whenever CSS transform is supported */
+div#YKCOWREBBAJ {
+  transform: scalex(-1);
+}
+div#YKCOWREBBAJ img {
+  max-width: 75%;
+}
+
+table.sum {
+  width: 3em;
+}
+table.sum td {
+  text-align: right;
+}
+table.sum td.result {
+  border-width: 1px 0 0 0;
+  border-style: solid;
+}
+
+div.illustration {
+  text-align: center;
+  margin: 1em 0;
+  max-width: 100%;
+  max-height: 100%;
+  page-break-inside: avoid;
+  clear: both;
+}
+div.illustration img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+div.end {
+  text-align: center;
+  margin-top: 2em;
+}
+
+/* Disable non-rectangular wraps */
+#ill30_a, #ill30_b,
+#ill47_a, #ill47_b {
+  display: none;
+}
+/*
+div.left {
+  float: left;
+  clear: left;
+  margin-right: 0.5em;
+  text-align: left;
+}
+div.right {
+  float: right;
+  clear: right;
+  margin-left: 0.5em;
+  text-align: right;
+}
+.clear {
+  clear: both;
+}
+
+div#ill30 {
+  width: 100%;
+  max-height: 0;
+  margin-bottom: 0;
+  margin: 0;
+  page-break-after: avoid;
+}
+div#ill30_a {
+  width: 100%;
+  margin-bottom: 0.5em;
+  page-break-after: avoid;
+}
+div#ill30_b {
+  width: 47.34%; /* 258/545
+  margin-top: -0.5em;
+  page-break-after: avoid;
+}
+div#ill30_a img, div#ill30_b img {
+  max-width: 100%;
+  visibility: hidden;
+}
+
+div#ill47 {
+  width: 100%;
+  max-height: 0;
+  margin: 0;
+  page-break-after: avoid;
+}
+div#ill47_a {
+  width: 54.79%; /* 303/553
+  margin-bottom: -0.5em;
+  page-break-after: avoid;
+}
+div#ill47_b {
+  width: 100%;
+  margin-top: 0.5em;
+  page-break-after: avoid;
+}
+div#ill47_a img, div#ill47_b img {
+  max-width: 100%;
+  visibility: hidden;
+}
+*/
+
+div.footnote {
+  font-size: 80%;
+  margin: 1em 0 1em 0;
+  padding: 0 0 1em 0;
+  page-break-after: always;
+}
+div.footnote p {
+  text-indent: 0;
+}
+div.backlink {
+  text-align: center;
+  margin-top: 1em;
+}
+span.mark {
+  font-weight: bold;
+  margin: 0 1em 0 0;
+}
+a.call {
+  font-size: 60%;
+  font-weight: bold;
+  vertical-align: text-top;
+}
+
+div.toc {
+  font-size: 120%;
+  text-align: left;
+}
+div.toc a {
+  font-variant: small-caps;
+}
+div.frontmatter {
+}
+div.chapter {
+  margin: 1em 0 0 1em;
+}

@@ -1,0 +1,107 @@
+/* CSS stylesheet for PDF generation with Prince (http://www.princexml.com/) */
+
+/* specific code for the cover image */
+@page cover {
+  size: 600px 800px; /* hard-coded cover image size */
+  margin: 0 -100px;  /* make virtual page width 800px */
+}
+
+@page title {
+  margin: 1mm;
+  @top-left {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @top-center {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @top-right {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @bottom-left {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @bottom-center {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @bottom-right {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+}
+
+body {
+  string-set: booktitle "Through the Looking-Glass";
+  prince-text-replace: " – " "—"
+                       "\A– " "—"
+                       " –\A" "—";     /*replace em-dashes*/
+}
+
+body.cover {
+  page: cover;
+}
+
+div.title, div.edition {
+  page: title;
+  hyphens: none;
+}
+div.title + div.pagebreak {
+  display: none;
+}
+div.edition {
+  page-break-before: always;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+p.logo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 20%;
+}
+
+a {
+  text-decoration: none;
+}
+
+div.toc {
+  hyphens: none;
+}
+div.toc a {
+  string-set: chapterpage target-counter(attr(href), page);
+}
+div.toc br::before {
+  content: leader('. ') string(chapterpage);
+}
+
+title {
+  string-set: chaptertitle content();
+}
+h1.book {
+  prince-bookmark-level: 1;
+}
+h1 {
+  prince-bookmark-level: 2;
+}
+
+div.poetry p {
+  padding-left: 50% !important;
+  text-indent: -50% !important;
+}
+
+div.illustration:not([id=YKCOWREBBAJ]) {
+  float: top;
+  margin-top: 0 !important;
+}

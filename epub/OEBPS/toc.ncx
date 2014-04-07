@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="20100112" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Through the Looking-Glass, and What Alice Found There</text>
+  </docTitle>
+  <docAuthor>
+    <text>Lewis Carroll</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="Title" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Title.xhtml" />
+    </navPoint>
+    <navPoint id="Illustrations" playOrder="2">
+      <navLabel>
+        <text>List of Illustrations</text>
+      </navLabel>
+      <content src="Illustrations.xhtml" />
+    </navPoint>
+    <navPoint id="Chess" playOrder="3">
+      <navLabel>
+        <text>Dramatis Personæ</text>
+      </navLabel>
+      <content src="Chess.xhtml" />
+    </navPoint>
+    <navPoint id="Preface" playOrder="4">
+      <navLabel>
+        <text>Preface to the 1896 Edition</text>
+      </navLabel>
+      <content src="Preface.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-01" playOrder="5">
+      <navLabel>
+        <text>Chapter 1: Looking-Glass House</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-02" playOrder="6">
+      <navLabel>
+        <text>Chapter 2: The Garden of Live Flowers</text>
+      </navLabel>
+      <content src="Chapter-02.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-03" playOrder="7">
+      <navLabel>
+        <text>Chapter 3: Looking-Glass Insects</text>
+      </navLabel>
+      <content src="Chapter-03.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-04" playOrder="8">
+      <navLabel>
+        <text>Chapter 4: Tweedledum and Tweedledee</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-05" playOrder="9">
+      <navLabel>
+        <text>Chapter 5: Wool and Water</text>
+      </navLabel>
+      <content src="Chapter-05.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-06" playOrder="10">
+      <navLabel>
+        <text>Chapter 6: Humpty Dumpty</text>
+      </navLabel>
+      <content src="Chapter-06.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-07" playOrder="11">
+      <navLabel>
+        <text>Chapter 7: The Lion and the Unicorn</text>
+      </navLabel>
+      <content src="Chapter-07.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-08" playOrder="12">
+      <navLabel>
+        <text>Chapter 8: ‘It’s my own Invention’</text>
+      </navLabel>
+      <content src="Chapter-08.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-09" playOrder="13">
+      <navLabel>
+        <text>Chapter 9: Queen Alice</text>
+      </navLabel>
+      <content src="Chapter-09.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-10" playOrder="14">
+      <navLabel>
+        <text>Chapter 10: Shaking</text>
+      </navLabel>
+      <content src="Chapter-10.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-11" playOrder="15">
+      <navLabel>
+        <text>Chapter 11: Waking</text>
+      </navLabel>
+      <content src="Chapter-11.xhtml" />
+    </navPoint>
+    <navPoint id="Chapter-12" playOrder="16">
+      <navLabel>
+        <text>Chapter 12: Which Dreamed It?</text>
+      </navLabel>
+      <content src="Chapter-12.xhtml" />
+    </navPoint>
+  </navMap>
+  <navList>
+    <navLabel>
+      <text>List of Illustrations</text>
+    </navLabel>
+    <navTarget id="ill2" playOrder="17">
+      <navLabel>
+        <text>The kitten had been having a grand game of romps with the ball of worsted</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill2" />
+    </navTarget>
+    <navTarget id="ill3" playOrder="18">
+      <navLabel>
+        <text>She scrambled back into the arm-chair</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill3" />
+    </navTarget>
+    <navTarget id="ill4" playOrder="19">
+      <navLabel>
+        <text>And certainly the glass was beginning to melt away</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill4" />
+    </navTarget>
+    <navTarget id="ill5" playOrder="20">
+      <navLabel>
+        <text>In another moment Alice was through the glass</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill5" />
+    </navTarget>
+    <navTarget id="ill6" playOrder="21">
+      <navLabel>
+        <text>‘Here are the Red King and the Red Queen’</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill6" />
+    </navTarget>
+    <navTarget id="ill7" playOrder="22">
+      <navLabel>
+        <text>So Alice picked the King up very gently</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill7" />
+    </navTarget>
+    <navTarget id="ill8" playOrder="23">
+      <navLabel>
+        <text>‘The White Knight is sliding down the poker’</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill8" />
+    </navTarget>
+    <navTarget id="ill9" playOrder="24">
+      <navLabel>
+        <text>The Jabberwock</text>
+      </navLabel>
+      <content src="Chapter-01.xhtml#ill9" />
+    </navTarget>
+    <navTarget id="ill10" playOrder="25">
+      <navLabel>
+        <text>‘We can talk,’ said the Tiger-lily</text>
+      </navLabel>
+      <content src="Chapter-02.xhtml#ill10" />
+    </navTarget>
+    <navTarget id="ill11" playOrder="26">
+      <navLabel>
+        <text>She found herself face to face with the Red Queen</text>
+      </navLabel>
+      <content src="Chapter-02.xhtml#ill11" />
+    </navTarget>
+    <navTarget id="ill12" playOrder="27">
+      <navLabel>
+        <text>The ground between was divided up into squares</text>
+      </navLabel>
+      <content src="Chapter-02.xhtml#ill12" />
+    </navTarget>
+    <navTarget id="ill13" playOrder="28">
+      <navLabel>
+        <text>And they went so fast that at last they seemed to skim through the air</text>
+      </navLabel>
+      <content src="Chapter-02.xhtml#ill13" />
+    </navTarget>
+    <navTarget id="ill14" playOrder="29">
+      <navLabel>
+        <text>‘You’re travelling the wrong way’</text>
+      </navLabel>
+      <content src="Chapter-03.xhtml#ill14" />
+    </navTarget>
+    <navTarget id="ill15" playOrder="30">
+      <navLabel>
+        <text>The Rocking-horse-fly</text>
+      </navLabel>
+      <content src="Chapter-03.xhtml#ill15" />
+    </navTarget>
+    <navTarget id="ill16" playOrder="31">
+      <navLabel>
+        <text>The Snap-dragon-fly</text>
+      </navLabel>
+      <content src="Chapter-03.xhtml#ill16" />
+    </navTarget>
+    <navTarget id="ill17" playOrder="32">
+      <navLabel>
+        <text>The Bread-and-butter-fly</text>
+      </navLabel>
+      <content src="Chapter-03.xhtml#ill17" />
+    </navTarget>
+    <navTarget id="ill18" playOrder="33">
+      <navLabel>
+        <text>Alice with her arms clasped lovingly round the soft neck of the Fawn</text>
+      </navLabel>
+      <content src="Chapter-03.xhtml#ill18" />
+    </navTarget>
+    <navTarget id="ill19" playOrder="34">
+      <navLabel>
+        <text>They were standing under a tree, each with an arm round the other’s neck</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml#ill19" />
+    </navTarget>
+    <navTarget id="ill20" playOrder="35">
+      <navLabel>
+        <text>The Walrus and the Carpenter were walking close at hand</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml#ill20" />
+    </navTarget>
+    <navTarget id="ill21" playOrder="36">
+      <navLabel>
+        <text>And all the little Oysters stood and waited in a row</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml#ill21" />
+    </navTarget>
+    <navTarget id="ill22" playOrder="37">
+      <navLabel>
+        <text>With sobs and tears he sorted out those of the largest size</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml#ill22" />
+    </navTarget>
+    <navTarget id="ill23" playOrder="38">
+      <navLabel>
+        <text>The King had a tall red night-cap on, with a tassel</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml#ill23" />
+    </navTarget>
+    <navTarget id="ill24" playOrder="39">
+      <navLabel>
+        <text>Tweedledum began to stamp about wildly and tear his hair</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml#ill24" />
+    </navTarget>
+    <navTarget id="ill25" playOrder="40">
+      <navLabel>
+        <text>‘Really they’ll be more like bundles of old clothes than anything else!’</text>
+      </navLabel>
+      <content src="Chapter-04.xhtml#ill25" />
+    </navTarget>
+    <navTarget id="ill26" playOrder="41">
+      <navLabel>
+        <text>She helped her to put on her shawl again</text>
+      </navLabel>
+      <content src="Chapter-05.xhtml#ill26" />
+    </navTarget>
+    <navTarget id="ill27" playOrder="42">
+      <navLabel>
+        <text>the King’s Messenger is in prison now</text>
+      </navLabel>
+      <content src="Chapter-05.xhtml#ill27" />
+    </navTarget>
+    <navTarget id="ill28" playOrder="43">
+      <navLabel>
+        <text>Was it really a sheep that was sitting on the other side of the counter?</text>
+      </navLabel>
+      <content src="Chapter-05.xhtml#ill28" />
+    </navTarget>
+    <navTarget id="ill29" playOrder="44">
+      <navLabel>
+        <text>The boat glided gently on</text>
+      </navLabel>
+      <content src="Chapter-05.xhtml#ill29" />
+    </navTarget>
+    <navTarget id="ill30" playOrder="45">
+      <navLabel>
+        <text>He leant forwards and offered Alice his hand</text>
+      </navLabel>
+      <content src="Chapter-06.xhtml#ill30" />
+    </navTarget>
+    <navTarget id="ill31" playOrder="46">
+      <navLabel>
+        <text>Toves, borogroves and raths in the wabe</text>
+      </navLabel>
+      <content src="Chapter-06.xhtml#ill31" />
+    </navTarget>
+    <navTarget id="ill32" playOrder="47">
+      <navLabel>
+        <text>‘I went and shouted in his ear’</text>
+      </navLabel>
+      <content src="Chapter-06.xhtml#ill32" />
+    </navTarget>
+    <navTarget id="ill33" playOrder="48">
+      <navLabel>
+        <text>The confusion got worse every moment</text>
+      </navLabel>
+      <content src="Chapter-07.xhtml#ill33" />
+    </navTarget>
+    <navTarget id="ill34" playOrder="49">
+      <navLabel>
+        <text>The Messenger handed a sandwich to the King</text>
+      </navLabel>
+      <content src="Chapter-07.xhtml#ill34" />
+    </navTarget>
+    <navTarget id="ill35" playOrder="50">
+      <navLabel>
+        <text>Hatta only munched away, and drank some more tea</text>
+      </navLabel>
+      <content src="Chapter-07.xhtml#ill35" />
+    </navTarget>
+    <navTarget id="ill36" playOrder="51">
+      <navLabel>
+        <text>‘It’s a fabulous monster!’</text>
+      </navLabel>
+      <content src="Chapter-07.xhtml#ill36" />
+    </navTarget>
+    <navTarget id="ill37" playOrder="52">
+      <navLabel>
+        <text>But before Alice could answer him, the drums began</text>
+      </navLabel>
+      <content src="Chapter-07.xhtml#ill37" />
+    </navTarget>
+    <navTarget id="ill38" playOrder="53">
+      <navLabel>
+        <text>They hold their clubs with their arms, as if they were Punch and Judy</text>
+      </navLabel>
+      <content src="Chapter-08.xhtml#ill38" />
+    </navTarget>
+    <navTarget id="ill39" playOrder="54">
+      <navLabel>
+        <text>Whenever the horse stopped, he fell off in front</text>
+      </navLabel>
+      <content src="Chapter-08.xhtml#ill39" />
+    </navTarget>
+    <navTarget id="ill1" playOrder="55">
+      <navLabel>
+        <text>They went on a little way in silence after this</text>
+      </navLabel>
+      <content src="Chapter-08.xhtml#ill1" />
+    </navTarget>
+    <navTarget id="ill40" playOrder="56">
+      <navLabel>
+        <text>She could see nothing but the soles of his feet</text>
+      </navLabel>
+      <content src="Chapter-08.xhtml#ill40" />
+    </navTarget>
+    <navTarget id="ill41" playOrder="57">
+      <navLabel>
+        <text>I saw an aged aged man, a-sitting on a gate</text>
+      </navLabel>
+      <content src="Chapter-08.xhtml#ill41" />
+    </navTarget>
+    <navTarget id="ill42" playOrder="58">
+      <navLabel>
+        <text>It was a golden crown</text>
+      </navLabel>
+      <content src="Chapter-08.xhtml#ill42" />
+    </navTarget>
+    <navTarget id="ill43" playOrder="59">
+      <navLabel>
+        <text>She found the Red Queen and the White Queen sitting close to her</text>
+      </navLabel>
+      <content src="Chapter-09.xhtml#ill43" />
+    </navTarget>
+    <navTarget id="ill44" playOrder="60">
+      <navLabel>
+        <text>In another moment both Queens were fast asleep</text>
+      </navLabel>
+      <content src="Chapter-09.xhtml#ill44" />
+    </navTarget>
+    <navTarget id="ill45" playOrder="61">
+      <navLabel>
+        <text>A very old Frog got up and hobbled slowly towards her</text>
+      </navLabel>
+      <content src="Chapter-09.xhtml#ill45" />
+    </navTarget>
+    <navTarget id="ill46" playOrder="62">
+      <navLabel>
+        <text>The leg of mutton got up in the dish and made a little bow to Alice</text>
+      </navLabel>
+      <content src="Chapter-09.xhtml#ill46" />
+    </navTarget>
+    <navTarget id="ill47" playOrder="63">
+      <navLabel>
+        <text>And then all sorts of things happened in a moment</text>
+      </navLabel>
+      <content src="Chapter-09.xhtml#ill47" />
+    </navTarget>
+    <navTarget id="ill48" playOrder="64">
+      <navLabel>
+        <text>‘I’ll shake you into a kitten!’</text>
+      </navLabel>
+      <content src="Chapter-09.xhtml#ill48" />
+    </navTarget>
+    <navTarget id="ill49" playOrder="65">
+      <navLabel>
+        <text>And it really was a kitten</text>
+      </navLabel>
+      <content src="Chapter-11.xhtml#ill49" />
+    </navTarget>
+    <navTarget id="ill50" playOrder="66">
+      <navLabel>
+        <text>So Alice hunted among the chessmen on the table till she had found the Red Queen</text>
+      </navLabel>
+      <content src="Chapter-12.xhtml#ill50" />
+    </navTarget>
+  </navList>
+</ncx>
